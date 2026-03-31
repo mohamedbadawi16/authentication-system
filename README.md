@@ -63,8 +63,3 @@ Fixed OTP code for development only:
 ## Notes
 - OTP is logged in the API console via `LoggingEmailSender` (dev only).
 - The frontend stores the JWT in Session (display/demo purposes only).
-
-## Next Steps
-- Replace `LoggingEmailSender` with a real email provider.
-- Add refresh tokens.
-- Store tokens securely on the client.
