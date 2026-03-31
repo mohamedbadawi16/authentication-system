@@ -1,0 +1,11 @@
+E:\Projects\AuthenticationSystem\src\Domain\bin\Debug\net9.0\AuthenticationSystem.Domain.deps.json
+E:\Projects\AuthenticationSystem\src\Domain\bin\Debug\net9.0\AuthenticationSystem.Domain.dll
+E:\Projects\AuthenticationSystem\src\Domain\bin\Debug\net9.0\AuthenticationSystem.Domain.pdb
+E:\Projects\AuthenticationSystem\src\Domain\obj\Debug\net9.0\AuthenticationSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\AuthenticationSystem\src\Domain\obj\Debug\net9.0\AuthenticationSystem.Domain.AssemblyInfoInputs.cache
+E:\Projects\AuthenticationSystem\src\Domain\obj\Debug\net9.0\AuthenticationSystem.Domain.AssemblyInfo.cs
+E:\Projects\AuthenticationSystem\src\Domain\obj\Debug\net9.0\AuthenticationSystem.Domain.csproj.CoreCompileInputs.cache
+E:\Projects\AuthenticationSystem\src\Domain\obj\Debug\net9.0\AuthenticationSystem.Domain.dll
+E:\Projects\AuthenticationSystem\src\Domain\obj\Debug\net9.0\refint\AuthenticationSystem.Domain.dll
+E:\Projects\AuthenticationSystem\src\Domain\obj\Debug\net9.0\AuthenticationSystem.Domain.pdb
+E:\Projects\AuthenticationSystem\src\Domain\obj\Debug\net9.0\ref\AuthenticationSystem.Domain.dll

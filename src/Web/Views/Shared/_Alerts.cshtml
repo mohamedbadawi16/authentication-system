@@ -1,0 +1,25 @@
+@{
+    var success = TempData["Success"] as string;
+    var warning = TempData["Warning"] as string;
+    var token = TempData["Token"] as string;
+    var expiresAt = TempData["ExpiresAt"] as string;
+}
+
+@if (!string.IsNullOrWhiteSpace(success))
+{
+    <div class="alert alert-success">@success</div>
+}
+
+@if (!string.IsNullOrWhiteSpace(warning))
+{
+    <div class="alert alert-warning">@warning</div>
+}
+
+@if (!string.IsNullOrWhiteSpace(token))
+{
+    <div class="alert alert-info">
+        <div class="fw-semibold">JWT</div>
+        <div class="small text-muted mb-2">Expires @expiresAt</div>
+        <div class="text-break">@token</div>
+    </div>
+}

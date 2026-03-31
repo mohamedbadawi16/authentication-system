@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Projects\\AuthenticationSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD45C248-D632-4E40-89E7-FEF5E2298750}|src\\Web\\AuthenticationSystem.Web.csproj|e:\\projects\\authenticationsystem\\src\\web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD45C248-D632-4E40-89E7-FEF5E2298750}|src\\Web\\AuthenticationSystem.Web.csproj|solutionrelative:src\\web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD45C248-D632-4E40-89E7-FEF5E2298750}|src\\Web\\AuthenticationSystem.Web.csproj|e:\\projects\\authenticationsystem\\src\\web\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD45C248-D632-4E40-89E7-FEF5E2298750}|src\\Web\\AuthenticationSystem.Web.csproj|solutionrelative:src\\web\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25A64BC7-92D8-4DED-95FE-CCA9933713F8}|src\\Application\\AuthenticationSystem.Application.csproj|e:\\projects\\authenticationsystem\\src\\application\\auth\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25A64BC7-92D8-4DED-95FE-CCA9933713F8}|src\\Application\\AuthenticationSystem.Application.csproj|solutionrelative:src\\application\\auth\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A76BD95-2B46-44EB-B5A2-ABA4A08C9214}|src\\Api\\AuthenticationSystem.Api.csproj|e:\\projects\\authenticationsystem\\src\\api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A76BD95-2B46-44EB-B5A2-ABA4A08C9214}|src\\Api\\AuthenticationSystem.Api.csproj|solutionrelative:src\\api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9991F441-8951-424E-9E3E-224867C7BBCA}|src\\Infrastructure\\AuthenticationSystem.Infrastructure.csproj|e:\\projects\\authenticationsystem\\src\\infrastructure\\services\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9991F441-8951-424E-9E3E-224867C7BBCA}|src\\Infrastructure\\AuthenticationSystem.Infrastructure.csproj|solutionrelative:src\\infrastructure\\services\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A76BD95-2B46-44EB-B5A2-ABA4A08C9214}|src\\Api\\AuthenticationSystem.Api.csproj|e:\\projects\\authenticationsystem\\src\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1A76BD95-2B46-44EB-B5A2-ABA4A08C9214}|src\\Api\\AuthenticationSystem.Api.csproj|solutionrelative:src\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD45C248-D632-4E40-89E7-FEF5E2298750}|src\\Web\\AuthenticationSystem.Web.csproj|e:\\projects\\authenticationsystem\\src\\web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FD45C248-D632-4E40-89E7-FEF5E2298750}|src\\Web\\AuthenticationSystem.Web.csproj|solutionrelative:src\\web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Projects\\AuthenticationSystem\\src\\Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "src\\Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\Projects\\AuthenticationSystem\\src\\Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "src\\Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-31T09:51:59.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "E:\\Projects\\AuthenticationSystem\\src\\Application\\Auth\\AuthService.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Auth\\AuthService.cs",
+              "ToolTip": "E:\\Projects\\AuthenticationSystem\\src\\Application\\Auth\\AuthService.cs",
+              "RelativeToolTip": "src\\Application\\Auth\\AuthService.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAowFQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T09:45:14.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "E:\\Projects\\AuthenticationSystem\\src\\Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "src\\Api\\Controllers\\AuthController.cs",
+              "ToolTip": "E:\\Projects\\AuthenticationSystem\\src\\Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "src\\Api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T21:48:01.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Projects\\AuthenticationSystem\\src\\Api\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\Api\\appsettings.json",
+              "ToolTip": "E:\\Projects\\AuthenticationSystem\\src\\Api\\appsettings.json",
+              "RelativeToolTip": "src\\Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-30T21:47:53.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "E:\\Projects\\AuthenticationSystem\\src\\Web\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "src\\Web\\appsettings.Development.json",
+              "ToolTip": "E:\\Projects\\AuthenticationSystem\\src\\Web\\appsettings.Development.json",
+              "RelativeToolTip": "src\\Web\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-30T21:47:43.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "E:\\Projects\\AuthenticationSystem\\src\\Web\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "src\\Web\\Controllers\\AuthController.cs",
+              "ToolTip": "E:\\Projects\\AuthenticationSystem\\src\\Web\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "src\\Web\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAUwDsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T21:45:50.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JwtTokenGenerator.cs",
+              "DocumentMoniker": "E:\\Projects\\AuthenticationSystem\\src\\Infrastructure\\Services\\JwtTokenGenerator.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Services\\JwtTokenGenerator.cs",
+              "ToolTip": "E:\\Projects\\AuthenticationSystem\\src\\Infrastructure\\Services\\JwtTokenGenerator.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Services\\JwtTokenGenerator.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwCQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T21:53:10.945Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

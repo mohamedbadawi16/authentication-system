@@ -1,0 +1,15 @@
+E:\Projects\AuthenticationSystem\src\Application\bin\Debug\net9.0\AuthenticationSystem.Application.deps.json
+E:\Projects\AuthenticationSystem\src\Application\bin\Debug\net9.0\AuthenticationSystem.Application.dll
+E:\Projects\AuthenticationSystem\src\Application\bin\Debug\net9.0\AuthenticationSystem.Application.pdb
+E:\Projects\AuthenticationSystem\src\Application\bin\Debug\net9.0\AuthenticationSystem.Domain.dll
+E:\Projects\AuthenticationSystem\src\Application\bin\Debug\net9.0\AuthenticationSystem.Domain.pdb
+E:\Projects\AuthenticationSystem\src\Application\obj\Debug\net9.0\AuthenticationSystem.Application.csproj.AssemblyReference.cache
+E:\Projects\AuthenticationSystem\src\Application\obj\Debug\net9.0\AuthenticationSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\AuthenticationSystem\src\Application\obj\Debug\net9.0\AuthenticationSystem.Application.AssemblyInfoInputs.cache
+E:\Projects\AuthenticationSystem\src\Application\obj\Debug\net9.0\AuthenticationSystem.Application.AssemblyInfo.cs
+E:\Projects\AuthenticationSystem\src\Application\obj\Debug\net9.0\AuthenticationSystem.Application.csproj.CoreCompileInputs.cache
+E:\Projects\AuthenticationSystem\src\Application\obj\Debug\net9.0\Authenti.93F47949.Up2Date
+E:\Projects\AuthenticationSystem\src\Application\obj\Debug\net9.0\AuthenticationSystem.Application.dll
+E:\Projects\AuthenticationSystem\src\Application\obj\Debug\net9.0\refint\AuthenticationSystem.Application.dll
+E:\Projects\AuthenticationSystem\src\Application\obj\Debug\net9.0\AuthenticationSystem.Application.pdb
+E:\Projects\AuthenticationSystem\src\Application\obj\Debug\net9.0\ref\AuthenticationSystem.Application.dll

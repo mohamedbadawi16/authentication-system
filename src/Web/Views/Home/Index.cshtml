@@ -1,0 +1,36 @@
+@{
+    ViewData["Title"] = "Welcome";
+    var email = ViewData["Email"] as string ?? string.Empty;
+    var expiresAt = ViewData["ExpiresAt"] as string ?? string.Empty;
+}
+
+<div class="row justify-content-center">
+    <div class="col-lg-6">
+        <partial name="_Alerts" />
+        <div class="card shadow-sm">
+            <div class="card-body">
+                <h3 class="card-title mb-2">Welcome</h3>
+ 
+                @if (!string.IsNullOrWhiteSpace(email))
+                {
+                    <div class="mb-3">
+                        <div class="fw-semibold">Email</div>
+                        <div class="text-muted">@email</div>
+                    </div>
+                }
+
+                @if (!string.IsNullOrWhiteSpace(expiresAt))
+                {
+                    <div class="mb-4">
+                        <div class="fw-semibold">ExpiresAt</div>
+                        <div class="text-muted">@expiresAt</div>
+                    </div>
+                }
+
+                <form asp-action="Logout" method="post">
+                    <button type="submit" class="btn btn-outline-danger w-100">Logout</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
